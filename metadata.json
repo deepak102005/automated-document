@@ -1,0 +1,5 @@
+{
+  "name": "Automated Document Analyzer",
+  "description": "An AI-powered tool to summarize, analyze, and answer questions about legal and literary documents. Features multi-level summaries, key theme extraction, interactive Q&A, and export options.",
+  "requestFramePermissions": []
+}
